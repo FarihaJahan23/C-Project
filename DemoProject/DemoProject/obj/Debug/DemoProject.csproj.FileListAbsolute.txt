@@ -1,0 +1,14 @@
+D:\C#code\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+D:\C#code\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+D:\C#code\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.Form1.resources
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.Form2.resources
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.Form3.resources
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.Form4.resources
+D:\C#code\DemoProject\DemoProject\obj\Debug\DemoProject.Form5.resources
